@@ -48,6 +48,7 @@ namespace Sorting
             // 1 5 0 3 6 7 8 9
             // 1 0 3 5 6 7 8 9
             // 0 1 3 5 6 7 8 9
+            // ----> ???????
 
             Console.WriteLine(arr.Length);
 
